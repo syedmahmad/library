@@ -38,6 +38,6 @@
     "react-dom": "^17.0.2"
   },
   "publishConfig": {
-    "registry":"https://github.com/syedmahmad/library.git"
+    "registry":"git://github.com/syedmahmad/library.git"
   }
 }
